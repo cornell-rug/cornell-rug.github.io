@@ -6,7 +6,7 @@ title: Cornell R Users Group
 <article class="row">
   <section class="small-12 large-8 columns page-content" markdown="1">
 
-# Cornell R User's Group
+## Cornell R User's Group
 
 The is the homepage of the (soon to be launched) Cornell R Users' Group - welcome!
 
@@ -25,6 +25,10 @@ Come join us Monday, February 19th at 10:00 (location TBA) for an initial intere
 ## Join the listserv
 
 To join the listserv, send an email to: r-user-group-L-request@cornell.edu using the subject "join" and a blank message to be added to the listserv.
+
+</section>
+    <!--{% include asides/recent_posts.html %}-->
+</article>
 
 <!--Welcome to the Davis R Users' Group (D-RUG)!  We are a community of R-Users at UC Davis who support each other in using [R](https://cran.r-project.org/) for science and research. Our focus is providing a space for any/all levels to learn from each other. 
 
@@ -62,6 +66,4 @@ If you are interested in helping out, please let us know, any/all are welcome, a
 We've compiled a list of resources to help you get started using R and find answers to your questions. Our "[Getting Started](https://d-rug.github.io/getting-started.html)" link has some basic info about installing and learning about R. We maintain a question-and-answer forum at the "[Discourse Forum](https://d-rug.discourse.group)" link, and our "[Blog](https://d-rug.github.io/blog/)" is a good resource for the topics that we've discussed in our meetings.
 
 -->
-</section>
-    {% include asides/recent_posts.html %}
-</article>
+
