@@ -8,9 +8,19 @@ title: Cornell R Users Group
 
 # Cornell R User's Group
 
-The is the homepage of the (soon to be launched) Cornell R Users' Group.
+The is the homepage of the (soon to be launched) Cornell R Users' Group - welcome!
 
+The goal of this group is to create a community of R users at Cornell who support each other in using R. It will provide a space for people at all levels to connect and learn skills, methods, and practices in R that they can apply to their research and professional work.
 
+## New to R?
+
+Come to the Big Red Barn on Thursday, January 25th anytime between 3 and 5!
+
+Getting R and RStudio set up on your computer can be challenging, but CSCU is here to help! Stop in any time during this session to get help installing R, RStudio, and R packages (such as tidyverse). This is a great opportunity to make sure you're ready to go with R before classes start or attending one of CSCU's R workshops. We can also help troubleshoot pesky package installation issues. Snacks will be provided!
+
+## Join the listserv
+
+To join the listserv, send an email to: r-user-group-L-request@cornell.edu using the subject "join" and a blank message to be added to the listserv.
 
 <!--Welcome to the Davis R Users' Group (D-RUG)!  We are a community of R-Users at UC Davis who support each other in using [R](https://cran.r-project.org/) for science and research. Our focus is providing a space for any/all levels to learn from each other. 
 
