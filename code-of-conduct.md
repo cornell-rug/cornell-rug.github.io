@@ -1,13 +1,18 @@
 ---
 layout: page
-title: "Davis R-Users Group Code of Conduct"
+title: "Cornell R-Users Group Code of Conduct"
 permalink: /code-of-conduct.html
 ---
 
 <article class="row" markdown="1">
 <section class="small-12 large-8 columns page-content" markdown="1">
 
-We are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. However, we recognise that some groups in our community are subject to historical and ongoing discrimination, and may be vulnerable or disadvantaged. Membership in such a specific group can be on the basis of characteristics such as gender, sexual orientation, disability, physical appearance, body size, race, nationality, sex, colour, ethnic or social origin, pregnancy, citizenship, familial status, veteran status, genetic information, religion or belief, political or any other opinion, membership of a national minority, property, birth, age, or choice of text editor. We do not tolerate harassment of participants on the basis of these categories, or for any other reason.
+Coming soon
+
+<!--
+This is the code of conduct for Davis' R User's group, we will need to write out own
+
+We are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. However, we recognize that some groups in our community are subject to historical and ongoing discrimination, and may be vulnerable or disadvantaged. Membership in such a specific group can be on the basis of characteristics such as gender, sexual orientation, disability, physical appearance, body size, race, nationality, sex, color, ethnic or social origin, pregnancy, citizenship, familial status, veteran status, genetic information, religion or belief, political or any other opinion, membership of a national minority, property, birth, age, or choice of text editor. We do not tolerate harassment of participants on the basis of these categories, or for any other reason.
 
 Harassment is any form of behavior intended to exclude, intimidate, or cause discomfort. Because we are a diverse community, we may have different ways of communicating and of understanding the intent behind actions. Therefore we have chosen to prohibit certain forms of behavior in our community, regardless of intent. Prohibited harassing behavior includes but is not limited to:
 
@@ -65,3 +70,4 @@ For more information about the Code of Conduct related to Data Carpentry, please
 
 </section>
 </article>
+-->
