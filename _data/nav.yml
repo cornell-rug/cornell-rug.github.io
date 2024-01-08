@@ -1,6 +1,9 @@
 - title: "home"
   href: "/"
 
+- title: "Calendar"
+  href: "/calendar.html"
+
 - title: "links"
   external-subcategories:
     - subtitle: "See this site on GitHub"
