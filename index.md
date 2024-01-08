@@ -6,6 +6,8 @@ title: Cornell R Users Group
 <article class="row">
   <section class="small-12 large-8 columns page-content" markdown="1">
 
+# Cornell R User's Group
+
 The is the homepage of the (soon to be launched) Cornell R Users' Group.
 
 
