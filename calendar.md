@@ -5,7 +5,7 @@ permalink: /calendar.html
 calendar: true
 ---
 
-## Calendar
+# Calendar
   
 Coming soon
 
