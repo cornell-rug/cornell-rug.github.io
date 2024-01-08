@@ -1,14 +1,14 @@
 # Site settings
-title: Davis R Users Group
-email: rapeek@ucdavis.edu
-author: Ryan Peek
+title: Cornell R Users Group
+email: mthomas@cornell.edu
+author: Matt Thomas
 
-keywords: R, Study Group, Davis, UC Davis
+keywords: R, Cornell
 description: > # this means to ignore newlines until "baseurl:"
-  Website for the Davis R Users Group
+  Website for the Cornell R Users Group
 
 #baseurl: 
-url: https://d-rug.github.io/
+url: https://cornell-rug.github.io/
 
 header: no
 header_sm: images/banner-small.jpg
