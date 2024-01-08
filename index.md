@@ -18,6 +18,10 @@ Come to the Big Red Barn on Thursday, January 25th anytime between 3 and 5!
 
 Getting R and RStudio set up on your computer can be challenging, but CSCU is here to help! Stop in any time during this session to get help installing R, RStudio, and R packages (such as tidyverse). This is a great opportunity to make sure you're ready to go with R before classes start or attending one of CSCU's R workshops. We can also help troubleshoot pesky package installation issues. Snacks will be provided!
 
+## Come to our initial interest meeting
+
+Come join us Monday, February 19th at 10:00 (location TBA) for an initial interest meeting. Come chat about what you'd like to see from the group, ideas, and directions.
+
 ## Join the listserv
 
 To join the listserv, send an email to: r-user-group-L-request@cornell.edu using the subject "join" and a blank message to be added to the listserv.
