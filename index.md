@@ -27,6 +27,8 @@ Come join us Monday, February 19th at 10:00 (location TBA) for an initial intere
 To join the listserv, send an email to: r-user-group-L-request@cornell.edu using the subject "join" and a blank message to be added to the listserv.
 
 </section>
+    <img src="https://raw.githubusercontent.com/cornell-rug/cornell-rug.github.io/main/R.png"
+         width="350px"/>
     <!--{% include asides/recent_posts.html %}-->
 </article>
 
