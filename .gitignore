@@ -10,3 +10,4 @@ Gemfile.lock
 images/image_optim_cache.yml
 *.Rhistory
 .Rproj.user
+*.Rproj
