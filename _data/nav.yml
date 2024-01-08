@@ -7,27 +7,13 @@
 - title: "getting started"
   href: "/getting-started.html"
 
-- title: "Discourse Forum"
-  href: "https://d-rug.discourse.group"
-  
-- title: "r at davis"
-  href: "/r-at-davis.html"
-
 - title: "Blog"
   href: "/blog/"
 
-- title: "D-RUG Calendar"
+- title: "Calendar"
   href: "/calendar.html"
 
 - title: "links"
   external-subcategories:
-    - subtitle: "UC Davis Data Lab"
-      subhref: "https://datalab.ucdavis.edu/"
-    - subtitle: "D-RUG-ers on Twitter"
-      subhref: "https://twitter.com/Voovarb/lists/d-rug/members"
-    - subtitle: "Join our Mailing List"
-      subhref: "https://groups.google.com/forum/#!forum/davis-rug"
-    - subtitle: "Discourse Discussion Forum"
-      subhref: "https://d-rug.discourse.group"
     - subtitle: "See this site on GitHub"
-      subhref: "https://github.com/d-rug/d-rug.github.io"
+      subhref: "https://github.com/cornell-rug/cornell-rug.github.io"
