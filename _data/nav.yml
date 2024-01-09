@@ -1,8 +1,8 @@
 - title: "home"
   href: "/"
 
-- title: "Blog"
-  href: "/blog/"
+- title: "Posts"
+  href: "/posts/"
 
 - title: "Calendar"
   href: "/calendar.html"
