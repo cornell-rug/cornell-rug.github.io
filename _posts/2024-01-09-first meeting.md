@@ -1,8 +1,8 @@
 ---
-title: Plot post template
-author: Author
+title: First Meeting
+author: Matt Thomas
 tags: [tagA, tagB]
-date: 12-10-05 12:05:10
+date: 
 layout: post
 --- 
 
