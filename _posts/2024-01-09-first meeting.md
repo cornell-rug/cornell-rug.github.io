@@ -2,7 +2,7 @@
 title: First Meeting
 author: Matt Thomas
 tags: [tagA, tagB]
-date: 
+date: 12-10-05 12:05:10
 layout: post
 --- 
 
