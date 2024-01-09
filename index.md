@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Cornell R Users Group
+title: Cornell R User Group
 ---
 
 <article class="row">
   <section class="small-12 large-8 columns page-content" markdown="1">
 
-## Cornell R User's Group
+## Cornell R User Group
 
-The is the homepage of the (soon to be launched) Cornell R Users' Group - welcome!
+The is the homepage of the (soon to be launched) Cornell R User Group - welcome!
 
 The goal of this group is to create a community of R users at Cornell who support each other in using R. It will provide a space for people at all levels to connect and learn skills, methods, and practices in R that they can apply to their research and professional work.
 

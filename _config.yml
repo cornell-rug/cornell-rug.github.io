@@ -1,11 +1,11 @@
 # Site settings
-title: Cornell R Users Group
+title: Cornell R User Group
 email: mthomas@cornell.edu
 author: Matt Thomas
 
 keywords: R, Cornell
 description: > # this means to ignore newlines until "baseurl:"
-  Website for the Cornell R Users Group
+  Website for the Cornell R User Group
 
 #baseurl: 
 url: https://cornell-rug.github.io/

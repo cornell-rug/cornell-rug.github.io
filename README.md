@@ -1,6 +1,6 @@
-# Cornell R Users Group
+# Cornell R User Group
 
-Welcome to the repo for the Cornell R Users Group website, found at cornell-rug.github.io.
+Welcome to the repo for the Cornell R User Group website, found at cornell-rug.github.io.
 
 This page is forked (with appreciation) from the Davis R User's Group website (https://d-rug.github.io).
 

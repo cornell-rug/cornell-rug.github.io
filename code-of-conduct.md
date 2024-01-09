@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Cornell R-Users Group Code of Conduct"
+title: "Cornell R-User Group Code of Conduct"
 permalink: /code-of-conduct.html
 ---
 
