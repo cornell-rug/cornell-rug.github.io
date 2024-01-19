@@ -22,7 +22,7 @@ Let us know you're coming by registering [here](https://cscu.cornell.edu/worksho
 
 ## Come to our initial interest meeting
 
-Come join us Monday, February 19th at 10:00 (location TBA) for an initial interest meeting. Come chat about what you'd like to see from the group, ideas, and directions.
+Come join us Monday, February 19th at 10:00 at the Big Red Barn for an initial interest meeting. Come chat about what you'd like to see from the group, ideas, and directions.
 
 ## Join the listserv
 
