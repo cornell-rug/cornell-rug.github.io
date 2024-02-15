@@ -14,7 +14,7 @@ The goal of this group is to create a community of R users at Cornell who suppor
 
 ## Come to our initial interest meeting
 
-Come join us Monday, February 19th at 10:00 at the Big Red Barn for an initial interest meeting. Come chat about what you'd like to see from the group, ideas, and directions.
+The first meeting of the Cornell R User Group is happening next Monday (2/19) at 10am in the Big Red Barn. People of all skill levels and roles are welcome. The goal of the meeting is to get to know each other, talk about our interests and what we’d like to get out of the group, and make a plan for future meetings. Coffee will be provided!
 
 If you can't make the meeting, fill out our survey **[here](https://cornell.ca1.qualtrics.com/jfe/form/SV_dpAUJMX34Vk0Vwi)** to give us ideas of what you'd like from the group - and join the listserv to get updates!
 
