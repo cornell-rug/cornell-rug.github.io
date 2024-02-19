@@ -18,6 +18,8 @@ The first meeting of the Cornell R User Group is happening next Monday (2/19) at
 
 If you can't make the meeting, fill out our survey [<span style="color:red">here</span>](https://cornell.ca1.qualtrics.com/jfe/form/SV_dpAUJMX34Vk0Vwi) to give us ideas of what you'd like from the group - and join the listserv to get updates!
 
+In meeting survey: https://poll.ly/xwiDqKFBo4iguuJhRuNQ
+
 ## Join the listserv
 
 To join the listserv, send an email to: r-user-group-L-request@cornell.edu using the subject "join" and a blank message to be added to the listserv.
