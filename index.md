@@ -12,13 +12,9 @@ The is the homepage of the (soon to be launched) Cornell R User Group - welcome!
 
 The goal of this group is to create a community of R users at Cornell who support each other in using R. It will provide a space for people at all levels to connect and learn skills, methods, and practices in R that they can apply to their research and professional work.
 
-## Come to our initial interest meeting
+## Meetings
 
-The first meeting of the Cornell R User Group is happening next Monday (2/19) at 10am in the Big Red Barn. People of all skill levels and roles are welcome. The goal of the meeting is to get to know each other, talk about our interests and what we’d like to get out of the group, and make a plan for future meetings. Coffee will be provided!
-
-If you can't make the meeting, fill out our survey [<span style="color:red">here</span>](https://cornell.ca1.qualtrics.com/jfe/form/SV_dpAUJMX34Vk0Vwi) to give us ideas of what you'd like from the group - and join the listserv to get updates!
-
-In meeting survey: https://poll.ly/xwiDqKFBo4iguuJhRuNQ
+Check the posts to the right to see when we're meeting, and check our confluence page [here](https://confluence.cornell.edu/pages/viewpage.action?pageId=511280222) for more details.
 
 ## Join the listserv
 
