@@ -2,7 +2,7 @@
 title: First Meeting
 author: Matt Thomas
 tags: [meeting]
-date: 24-04-05 01:30:00
+date: 24-04-04 01:30:00
 layout: post
 --- 
 
