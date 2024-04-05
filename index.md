@@ -18,7 +18,7 @@ Check the posts to the right to see when we're meeting, and check our confluence
 
 ## Join the listserv
 
-To join the listserv, send an email to: r-user-group-L-request@cornell.edu using the subject "join" and a blank message to be added to the listserv.
+To join the listserv, send an email to: <r-user-group-L-request@cornell.edu> using the subject "join" and a blank message to be added to the listserv.
 
 </section>
     {% include asides/recent_posts.html %}
