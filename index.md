@@ -12,7 +12,7 @@ The is the homepage of the Cornell R User Group - welcome!
 
 The goal of this group is to create a community of R users at Cornell who support each other in using R. It will provide a space for people at all levels to connect and learn skills, methods, and practices in R that they can apply to their research and professional work.
 
-You can see our confluence page with more info [here](<https://confluence.cornell.edu/pages/viewpage.action?pageId=511280222).
+You can see our confluence page with more info [here](https://confluence.cornell.edu/pages/viewpage.action?pageId=511280222).
 
 ## Meetings
 
