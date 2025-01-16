@@ -73,11 +73,13 @@ h1, h2, h3, h4, h5, h6 {
 a {
     /*color: $link-color;*/
     color: #3A69BA;
-    text-decoration: none;
+    /*text-decoration: none;*/
+    text-decoration: underline;
 
     &:visited {
         /*color: $link-visited-color;*/
         color: #3A69BA;
+        text-decoration: underline;
     }
 
     &:hover {
