@@ -16,7 +16,7 @@ You can see our confluence page with more info [here](https://confluence.cornell
 
 ## Meetings
 
-Check the posts to the right to see when we're meeting, and check our confluence page [here](https://confluence.cornell.edu/pages/viewpage.action?pageId=511280222) for more details.
+Check the posts to the right to see when we're meeting, and check our confluence page [here](https://confluence.cornell.edu/display/crug/Spring+2025+meeting+schedule) for more details.
 
 ## Join the listserv
 
