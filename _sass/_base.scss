@@ -75,16 +75,19 @@ a {
     color: #3A69BA;
     /*text-decoration: none;*/
     text-decoration: underline;
+    font-weight: bold;
 
     &:visited {
         /*color: $link-visited-color;*/
         color: #3A69BA;
         text-decoration: underline;
+        font-weight: bold;
     }
 
     &:hover {
         color: link-hover-color;
         text-decoration: underline;
+        font-weight: bold;
     }
 }
 
