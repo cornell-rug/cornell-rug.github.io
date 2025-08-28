@@ -10,6 +10,8 @@ To make a new post:
 - Open the `_posts` folder
 - Create a new md file. There are specific rules about naming conventions - it needs to be `year-month-day-name.md`. The `tamplate.md` file can be used as a starting point, so you can make a copy and rename it.
 - The contents of the file also have specific rules, many of which are self-explanatory. I've only used the `[meeting]` tag for posts because they've only been meeting announcements, but if we have more post types, we could add more tags. `date:` is the date the post will be viewable, so it can be in the past to make it immediately viewable.
+- You can preview the md in html, but don't keep the html version of it in the folder.
+- Push to github. The page will rebuild itself.
 
 ## Additional Info
 
