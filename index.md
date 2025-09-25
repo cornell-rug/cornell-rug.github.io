@@ -12,15 +12,26 @@ The is the homepage of the Cornell R User Group - welcome!
 
 The goal of this group is to create a community of R users at Cornell who support each other in using R. It will provide a space for people at all levels to connect and learn skills, methods, and practices in R that they can apply to their research and professional work.
 
-You can see our confluence page with more info [here](https://confluence.cornell.edu/pages/viewpage.action?pageId=511280222).
 
-## Meetings
+## Fall 2025 meeting schedule
 
-Check the posts to the right to see when we're meeting, and check our confluence page [here](https://confluence.cornell.edu/display/crug/Spring+2025+meeting+schedule) for more details.
+All meetings are from 4-5pm in Mann 102 and on [Zoom](https://cornell.zoom.us/j/98378111183?pwd=Gjl70rmk7aBSonEd9V0lAgJq9TQ8oL.1).
+
+* Tuesday Oct 7: Making a website using R and GitHub
+* Tuesday Nov 11: Using AI tools in R coding
+* Thursday Dec 4: Modeling and machine learning using tidymodels
+
+Check the posts to the right for more info.
+
 
 ## Join the listserv
 
 To join the listserv, send an email to: <r-user-group-L-request@cornell.edu> using the subject "join" and a blank message to be added to the listserv.
+
+
+## Past meeting notes
+
+Find notes and code from previous meetings [here](https://confluence.cornell.edu/spaces/crug/pages/511280320/Meeting+notes).
 
 </section>
     {% include asides/recent_posts.html %}
