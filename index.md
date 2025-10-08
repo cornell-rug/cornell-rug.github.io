@@ -15,7 +15,9 @@ The goal of this group is to create a community of R users at Cornell who suppor
 
 ## Fall 2025 meeting schedule
 
-All meetings are from 4-5pm in Mann 102 and on [Zoom](https://cornell.zoom.us/j/95723147511?pwd=yTARsRFrUPSD3SaHdUAeJiab6obDZI.1).
+All meetings are from 4-5pm in Mann 102 and on [Zoom](https://cornell.zoom.us/j/94426437090?pwd=cHWscPHan36KRxIgkFwbJ3FaLbkFmg.1).
+
+ 
 
 * Tuesday Oct 7: Making a website using R and GitHub
 * Tuesday Nov 11: Using AI tools in R coding
