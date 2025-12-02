@@ -4,9 +4,6 @@
 - title: "Posts"
   href: "/posts/"
 
-- title: "Calendar"
-  href: "https://confluence.cornell.edu/display/crug/Fall+2024+meeting+schedule"
-
 - title: "links"
   external-subcategories:
     - subtitle: "See this site on GitHub"
