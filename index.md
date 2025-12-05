@@ -15,7 +15,7 @@ The goal of this group is to create a community of R users at Cornell who suppor
 
 ## Fall 2025 meeting schedule
 
-Thanks for a great fall semester! Spring 2026 schedule is TBD. Check here soon for updates!
+Thanks for a great fall semester! Spring 2026 schedule is TBD. Check here soon for updates.
 
 All meetings are from 4-5pm in Mann 102 and on [Zoom](https://cornell.zoom.us/j/95723147511?pwd=yTARsRFrUPSD3SaHdUAeJiab6obDZI.1).
 
