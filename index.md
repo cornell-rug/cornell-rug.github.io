@@ -6,24 +6,23 @@ title: Cornell R User Group
 <article class="row">
   <section class="small-12 large-8 columns page-content" markdown="1">
 
-## Cornell R User Group
+# Cornell R User Group
 
 The is the homepage of the Cornell R User Group - welcome!
 
 The goal of this group is to create a community of R users at Cornell who support each other in using R. It will provide a space for people at all levels to connect and learn skills, methods, and practices in R that they can apply to their research and professional work.
 
 
-## Fall 2025 meeting schedule
-
-Thanks for a great fall semester! Spring 2026 schedule is TBD. Check here soon for updates.
+## Spring 2026 meeting schedule
 
 All meetings are from 4-5pm in Mann 102 and on [Zoom](https://cornell.zoom.us/j/95723147511?pwd=yTARsRFrUPSD3SaHdUAeJiab6obDZI.1).
 
-* Tuesday Oct 7: Making a website using R and GitHub
-* Tuesday Nov 11: Using AI tools in R coding
-* Thursday Dec 4: Modeling and machine learning using tidymodels
+* Tuesday, February 3
+* Tuesday, March 3
+* Tuesday, April 7
+* Tuesday,  May 5
 
-Check the posts to the right for more info.
+Meeting topics for this semester are TBD. Check here soon for updates!
 
 
 ## Join the listserv
