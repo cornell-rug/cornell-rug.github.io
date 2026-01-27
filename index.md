@@ -17,10 +17,10 @@ The goal of this group is to create a community of R users at Cornell who suppor
 
 All meetings are from 4-5pm in Mann 102 and on [Zoom](https://cornell.zoom.us/j/95723147511?pwd=yTARsRFrUPSD3SaHdUAeJiab6obDZI.1).
 
-* 2/3: Multi-panel plots using the patchwork package
-* 3/3: Workflow management using the targets package
-* 4/7: Tidy R workflow demonstration
-* 5/5: TBA
+* **2/3 - Multi-panel plots using the patchwork package**
+* **3/3 - Workflow management using the targets package**
+* **4/7 - Tidy R workflow demonstration**
+* **5/5 - TBA**
 
 
 ## Join the listserv
