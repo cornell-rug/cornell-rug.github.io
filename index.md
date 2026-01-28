@@ -22,6 +22,8 @@ All meetings are from 4-5pm in Mann 102 and on [Zoom](https://cornell.zoom.us/j/
 * **4/7 - Tidy R workflow demonstration**
 * **5/5 - TBA**
 
+Check out the posts to the right for more details!
+
 
 ## Join the listserv
 
