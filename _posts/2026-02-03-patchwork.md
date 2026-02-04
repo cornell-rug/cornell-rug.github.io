@@ -12,3 +12,4 @@ If you’ve ever had multiple plots that needed to go into the same figure, you 
 
 Snacks will be provided. Hope to see you there!
 
+The R script for this session can be found [**here**](./scripts/patchwork.R)
