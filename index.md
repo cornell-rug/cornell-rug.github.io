@@ -20,7 +20,7 @@ All meetings are from 4-5pm in Mann 102 and on [Zoom](https://cornell.zoom.us/j/
 * **2/3 - Multi-panel plots using the patchwork package**
 * **3/3 - Workflow management using the targets package**
 * **4/7 - Tidy R workflow demonstration**
-* **5/5 - TBA**
+* **5/5 - Open-source R code with TIB Knowledge Loom**
 
 Check out the posts to the right for more details!
 
