@@ -27,7 +27,7 @@ Check out the posts to the right for more details!
 
 ## Join the listserv
 
-To join the listserv, send an email to: <r-user-group-L-request@cornell.edu> using the subject "join" and a blank message to be added to the listserv.
+You can subscribe to our listserv (R-USER-GROUP-L) [here](https://lists.cornell.edu/). 
 
 
 ## Past meeting notes
