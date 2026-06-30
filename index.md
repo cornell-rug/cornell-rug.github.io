@@ -27,7 +27,7 @@ Check out the posts to the right for more details!
 
 ## Join the listserv
 
-You can subscribe to our listserv (R-USER-GROUP-L) [here](https://lists.cornell.edu/). 
+You can subscribe to our listserv (R-USER-GROUP-L) [here](https://lists.cornell.edu/R-USER-GROUP-L/subscribe/). 
 
 
 ## Past meeting notes
