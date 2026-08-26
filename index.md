@@ -13,16 +13,15 @@ The is the homepage of the Cornell R User Group - welcome!
 The goal of this group is to create a community of R users at Cornell who support each other in using R. It will provide a space for people at all levels to connect and learn skills, methods, and practices in R that they can apply to their research and professional work.
 
 
-## Spring 2026 meeting schedule
+## Fall 2026 meeting schedule
 
 All meetings are from 4-5pm in Mann 102 and on [Zoom](https://cornell.zoom.us/j/95723147511?pwd=yTARsRFrUPSD3SaHdUAeJiab6obDZI.1).
 
-* **2/3 - Multi-panel plots using the patchwork package**
-* **3/3 - Workflow management using the targets package**
-* **4/7 - Tidy R workflow demonstration**
-* **5/5 - Open-source R code with TIB Knowledge Loom**
+* **9/23 - ggplot extensions**
+* **10/20 - Create nice-looking tables using the gt package**
+* **11/18 - TBD**
 
-Check out the posts to the right for more details!
+More details to follow!
 
 
 ## Join the listserv
