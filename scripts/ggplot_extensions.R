@@ -3,8 +3,6 @@
 
 
 
-
-
 # ggplot extensions
 
 library(ggplot2)

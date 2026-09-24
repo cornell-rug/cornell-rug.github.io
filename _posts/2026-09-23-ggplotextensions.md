@@ -13,3 +13,5 @@ The ggplot2 package provides many tools for making graphs and visualizations, an
 Snack and drinks will be provided. Hope to see you there!
 
 The script from this session can be downloaded [here](https://github.com/cornell-rug/cornell-rug.github.io/blob/main/scripts/ggplot_extensions.R).
+
+The websites referenced were https://exts.ggplot2.tidyverse.org/gallery/ and https://github.com/erikgahner/awesome-ggplot2.
